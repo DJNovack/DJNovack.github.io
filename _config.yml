@@ -2,6 +2,10 @@ theme: jekyll-theme-midnight
 title: D.J. Novack
 description: D.J. Novack is a PhD Student in the Voelz lab at Temple University. 
 
+# Dependencies
+markdown:    kramdown
+highlighter: pygments
+
 # Site settings
 permalink: "/:title/"
 
