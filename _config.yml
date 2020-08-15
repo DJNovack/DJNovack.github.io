@@ -35,4 +35,4 @@ gems:
   - jekyll-redirect-from
   - jekyll-paginate
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
