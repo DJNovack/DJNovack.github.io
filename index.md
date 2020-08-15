@@ -1,3 +1,3 @@
 [About](https://djnovack.github.io/about/)
 ### D.J. Novack, PhD Student in the Voelz lab at Temple University.
-![Image of doggi](https:/https://github.com/DJNovack/DJNovack.github.io/_images/computerdog.jpg)
+![Image of doggi](_images/computerdog.jpg)
