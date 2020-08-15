@@ -9,13 +9,7 @@ github_username: DJNovack
 markdown: GFM
 highlighter: pygments
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - about.md
+
 # Site settings
 permalink: pretty
 
