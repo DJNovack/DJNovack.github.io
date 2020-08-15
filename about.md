@@ -1,1 +1,8 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+
+---
+
 ### D.J.Novack is a 3rd year PhD student in the Voelz Lab at Temple University in Philadelphia, Pa. They use MD simulation to investigate biomolecular phenomena relating to disease. Their research interests include investigating disease related mutations and how they effect the ways that proteins fold and bind their ligands. They are also interested in the timescale problem associated with MD simulation. Being a member of a lab that is part of the [Folding@Home](https://foldingathome.org/) consortium, they have used massively parallel computing to investigate protein folding. To this end, they are also interested in using GPU-accelerated metadynamics to investigate folding and binding, and extending that method towardd cheaper and better predictive power. 
