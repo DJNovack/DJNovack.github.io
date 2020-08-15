@@ -1,8 +1,8 @@
 # Site navigation links
 - title: "Home"
-  url: "/"
+  href: "/"
 
 - title: "About"
-  url: "/about/"
+  href: "/about/"
 
 
