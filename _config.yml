@@ -32,3 +32,5 @@ pages_list:
 gems:
   - jekyll-redirect-from
   - jekyll-paginate
+
+theme: jekyll-theme-minimal
