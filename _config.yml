@@ -3,7 +3,7 @@ title: D.J. Novack
 description: D.J. Novack is a PhD Student in the Voelz lab at Temple University. 
 url: https://djnovack.github.io/
 # Dependencies
-markdown:    GFM
+markdown: GFM
 highlighter: pygments
 
 # Site settings
