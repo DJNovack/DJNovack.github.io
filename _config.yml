@@ -1,6 +1,8 @@
 # Setup
 title:            D.J. Novack
-tagline:          D.J. Novack is a PhD Student in the Voelz lab at Temple University.
+logo:             images/computerdog.jpg
+description:      D.J. Novack is a PhD Student in the Voelz lab at Temple University.
+show_downloads:   false
 url:              https://djnovack.github.io
 
 author:
