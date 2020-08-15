@@ -8,7 +8,7 @@ twitter_username: kpmans_theorem
 github_username: DJNovack
 
 # Dependencies
-markdown: GFM
+markdown: kramdown
 highlighter: pygments
 
 
