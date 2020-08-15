@@ -1,15 +1,26 @@
-#theme: jekyll-theme-hacker
-title: D.J. Novack
-email: tuj66686@temple.edu
-tagline: D.J. Novack is a PhD Student in the Voelz lab at Temple University.
-show_downloads: false
-url: https://djnovack.github.io/
-twitter_username: kpmans_theorem
-github_username: DJNovack
+# Setup
+title:            D.J. Novack
+tagline:          D.J. Novack is a PhD Student in the Voelz lab at Temple University.
+url:              https://djnovack.github.io
+
+author:
+  name:           'D.J Novack'
+  url:            https://twitter.com/kpmans_theorem
+  
+
+github:
+  repo:           github.com/DJNovack/DJNovack.github.io
+  
+paginate:         1
+
+# Custom vars
+version:          1.0.0
 
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+kramdown:
+  extensions: ["tables"]
+highlighter: true
 
 
 # Site settings
