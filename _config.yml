@@ -29,7 +29,7 @@ highlighter: true
 permalink: pretty
 
 pages_list:       
-  About: '/about/'
+  About: '/about'
 
 gems:
   - jekyll-redirect-from
