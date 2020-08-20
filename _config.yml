@@ -30,6 +30,7 @@ permalink: pretty
 
 pages_list:       
   About: '/about'
+  Research: '/research'
 
 gems:
   - jekyll-redirect-from
