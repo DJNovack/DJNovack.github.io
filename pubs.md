@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Pubs
+---
 ### Publications/Presentations
 [Novack, D.; Qian, L.; Baxter, R. H. G.; Voelz, V. FOX01 Transcription Factor Folding Landscape Elucidates the Role of Disease Mutations. Biophysical Journal 2020, 118 (3, Supplement 1), 511a.](https://doi.org/10.1016/j.bpj.2019.11.2814) - [Poster](images/BPS_2020.pdf) presented @ BPS2020, Full Paper pending.
 
