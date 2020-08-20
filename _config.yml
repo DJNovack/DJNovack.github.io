@@ -31,6 +31,8 @@ permalink: pretty
 pages_list:       
   About: '/about'
   Research: '/research'
+  Teaching: '/teaching'
+  Publications/Presentations: '/pubs'
 
 gems:
   - jekyll-redirect-from
