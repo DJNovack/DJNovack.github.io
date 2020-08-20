@@ -1,3 +1,7 @@
+---
+layout: default
+title: Teaching
+---
 ### Teaching
 Fall 2020: Chem 1032  
 Spring 2020: Chem 4196 (Techniques of Chemical Measurement 2)  
