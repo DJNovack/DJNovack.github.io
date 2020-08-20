@@ -10,11 +10,11 @@ Their research interests include investigating disease related mutations and how
 
 
 ### Teaching
-Fall 2020: Chem 1032
-Spring 2020: Chem 4196 (Techniques of Chemical Measurement 2)
-Fall 2019: Chem 1033
-Spring 2019: Chem 1032 (Chemistry 2), Chem 1034 (Chemistry 2 Lab)
-Fall 2018: Chem 1033 (Chemistry 1 Lab)
+Fall 2020: Chem 1032  
+Spring 2020: Chem 4196 (Techniques of Chemical Measurement 2)  
+Fall 2019: Chem 1033  
+Spring 2019: Chem 1032 (Chemistry 2), Chem 1034 (Chemistry 2 Lab)  
+Fall 2018: Chem 1033 (Chemistry 1 Lab)  
 
 ### Publications/Presentations
 [Novack, D.; Qian, L.; Baxter, R. H. G.; Voelz, V. FOX01 Transcription Factor Folding Landscape Elucidates the Role of Disease Mutations. Biophysical Journal 2020, 118 (3, Supplement 1), 511a.](https://doi.org/10.1016/j.bpj.2019.11.2814) - [Poster](images/BPS_2020.pdf) presented @ BPS2020, Full Paper pending.
