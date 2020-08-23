@@ -13,7 +13,7 @@ author:
 github:
   repo:           github.com/DJNovack/DJNovack.github.io
   
-paginate:         1
+paginate:         50
 
 # Custom vars
 version:          1.0.0
