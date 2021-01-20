@@ -26,7 +26,7 @@ title: Chem4301Icomp_intro
 ## Python Distibutions & Basics
 Python is an object oriented programming language used in scientific computing. It's easy use and the large availability of useful libraries are pro's. A con being it is relatively slow. That being said, many big data scientists use python everyday.
 
-###Anaconda & Miniconda
+### Anaconda & Miniconda
 The Anaconda python distribution is an expansive scientific python distribution that comes with the usedful conda  package manager. A condensed and useful version of this distro is the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) distribution. This can easily be installed on all major OS's.
 
 #### Conda
