@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chem4301
+title: Chem4301Icomp_intro
 ---
 
 # Chem4301 Computation Introduction
