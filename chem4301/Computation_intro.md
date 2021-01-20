@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chem4301
+---
+
 # Chem4301 Computation Introduction
 ## What this intro will address:
 
