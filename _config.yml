@@ -33,6 +33,7 @@ pages_list:
   Research: '/research'
   Teaching: '/teaching'
   Publications/Presentations: '/pubs'
+  Romashka: '/romashka'
 
 gems:
   - jekyll-redirect-from
