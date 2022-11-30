@@ -1,7 +1,7 @@
 ---
 layout: photo_set
 title: Romashka
-permalink: /romashka/
+permalink: /Romashka/
 description: "An example photo gallery."
 
 photos:
