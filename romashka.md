@@ -4,7 +4,7 @@ title: Romashka
 no_menu_item: true # required only for this example website because of menu construction
 support: [jquery, gallery]
 ---
+# Romashka 202 - Nov. 2022
+This page is a memorial to my dear sweet departed cat 
 
-This page is a memorial to my dear sweet departed cat Romashka. 2021 - Nov. 2022
-
-{% _layout gallery-layout.html gallery=site.Romashka %}
+{% include gallery-layout.html folder="Romashka" %}
