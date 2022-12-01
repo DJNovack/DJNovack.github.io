@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -9,7 +8,9 @@ layout: default
 <ul>
   {% for i in (1..num) %}
   <li>
-    <img src="{{ site.baseurl }}/Romashka/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <img src="{{ site.baseurl }}/Romashka/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"
+         height="30%"
+         width="30%" />
   </li>
   {% endfor %}
 </ul>
