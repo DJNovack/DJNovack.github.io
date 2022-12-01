@@ -43,7 +43,7 @@ gems:
 plugins:
   - jekyll-gallery-generator
 
-remote_theme: jirrian/jekyll-theme-image-grid@main
+theme: jekyll-theme-minimal
 thumbsurl: "/thumbs"
 
 gallery:
