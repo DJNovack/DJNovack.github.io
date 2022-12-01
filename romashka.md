@@ -1,11 +1,10 @@
 ---
 layout: photo_set
-title: Romashka
+title: Romashka 2021 - Nov. 2022
+subtitle: This page is dedicate to my sweet, dear departed Romashka. May her feral spirit live on.
 permalink: /romashka/
-description: "An example photo gallery."
-
 photos:
     set: Romashka
     size: 100
 ---
-# Romashka 2021 - Nov. 2022
+
