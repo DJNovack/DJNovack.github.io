@@ -5,6 +5,5 @@ subtitle: This page is dedicate to my sweet, dear departed Romashka. May her fer
 permalink: /romashka/
 photos:
     set: Romashka
-    size: 100
 ---
 
