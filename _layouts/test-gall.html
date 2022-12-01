@@ -7,17 +7,19 @@ layout: default
 <h1>{{ page.title }}</h1>
 <h2>{{ page.subtitle }}</h2>
 <ul>
+    
+<div class="media-container">
+    {% for pic in site.photos %}
 
-<div class="row">
-
-    {% for item in page.photos %}
-    <div class="col-md-3">{{ item }}</div>
-
-        <!-- if last column in row -->
-        {% if forloop.counter | divisibleby:"4" and not forloop.last %}
-        </div><div class="row">
-        {% endif %}
+       <div class="media">
+          <img class="img" src="page.photos/{{pic}}" >
+       </div>
 
     {% endfor %}
-
 </div>
+
+
+
+.media-container {
+   display: flex;
+}
