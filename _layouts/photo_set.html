@@ -2,16 +2,16 @@
 layout: default
 ---
 
-{% assign num = page.photos.size %}
-
 <h1>{{ page.title }}</h1>
 <h2>{{ page.subtitle }}</h2>
 <ul>
-  {% for i in (1..num) %}
-  <li>
-    <img src="{{ site.baseurl }}/Romashka/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"
-         height="50%"
-         width="50%" />
-  </li>
+  {% for image in site.static_files %}
+       {% if image.path contains 'Romashka/' %}
+          <li>
+            <img src="{{image.path}}"
+             height="50%"
+             width="50%" />
+          </li>
+        {% endfor %}
   {% endfor %}
 </ul>
