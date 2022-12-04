@@ -1,25 +1,13 @@
 ---
 layout: default
 ---
-
-{% assign num = page.photos.size %}
-
-<h1>{{ page.title }}</h1>
-<h2>{{ page.subtitle }}</h2>
-<ul>
-    
-<div class="media-container">
-    {% for pic in site.photos %}
-
-       <div class="media">
-          <img class="img" src="page.photos/{{pic}}" >
+<div class ="img-gallery">
+  {% for image in site.static_files %}
+  {% if image.path contains 'Romashka/' %}
+       <div class="box">
+         <img src="{{image.path}}"  class="img-gallery" />
        </div>
+      {% endif %}
+  {% endfor %}
+ </div>
 
-    {% endfor %}
-</div>
-
-
-
-.media-container {
-   display: flex;
-}
