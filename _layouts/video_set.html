@@ -7,10 +7,9 @@ layout: default
 <ul>
   {% for video in site.static_files %}
        {% if video.path contains 'videos/' %}
-      <li>
-        <video src="{{video.path}}" controls="controls" style="max-width: 730px;">
-        </video>
-      </li>
-      {% endif %}
+           <li>
+               <video src="{{video.path}}" controls="controls" style="max-width: 730px;"></video>
+           </li>
+       {% endif %}
   {% endfor %}
 </ul>  
