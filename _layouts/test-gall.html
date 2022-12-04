@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<div class ="image-gallery">
-   /*! div style */
+<head>
+      /*! div style */
   .image-gallery {
     width: 100%;
     display: grid;
@@ -27,6 +27,8 @@ layout: default
   &:hover {
     transform: scale(1.05);
   }
+</head>
+<div class ="image-gallery">
   {% for image in site.static_files %}
   {% if image.path contains 'Romashka/' %}
        <div class="box">
