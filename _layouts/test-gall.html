@@ -4,6 +4,8 @@ layout: default
 <head>
 <link rel="stylesheet" href="/css/grid.css">
 </head>
+<h1>{{ page.title }}</h1>
+<h2>{{ page.subtitle }}</h2>
 <div class ="image-gallery">
   {% for image in site.static_files %}
   {% if image.path contains 'Romashka/' %}
